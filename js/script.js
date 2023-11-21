@@ -21,7 +21,7 @@ if(eta <= 18){
 }else if (eta >= 65){
     prezzo = (km * 0.21 * 0.6).toFixed(2);
     console.log(prezzo);
-    messaggio = `Complimenti! ${cliente} lei rientra anella fascia over 65 e quindi ha diritto ad uno scontro del 40%, il suo biglietto costa: ${prezzo}`
+    messaggio = `Complimenti! ${cliente} lei rientra nella fascia over 65 e quindi ha diritto ad uno scontro del 40%, il suo biglietto costa: ${prezzo}`
     document.getElementById(`messaggio`).innerHTML = messaggio
 }else{
     prezzo = km * 0.21
