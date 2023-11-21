@@ -19,3 +19,9 @@ Rispettate le milestone., non andate avanti se non avete completato prima quella
 Nota:
 Se non vi sentite particolarmente creativi, questa potrebbe essere un’implementazione da seguire per il secondo milestone. Potete scegliere di implementare una soluzione completamente diversa oppure simile, ma in ogni caso cercate di farla vostra.
 
+1 - creazione input km da percorrere
+2 - creazione input eta del passeggero
+3 - creazione bottone per calcolo prezzo
+4 - in base alla fascia d'eta, calcolare prezzo con relativo sconto.+
+5 - se tutto funziona, creare un form dove inserire i dati dell'utente.
+6 - restituire a video il prezzo del biglietto con relativo messaggio all'utente.

@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.bg-blue{
+    background-color: blue;
+}
+#btn-action{
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px;
+    color: white;
+    border-radius: 50%;
+}
